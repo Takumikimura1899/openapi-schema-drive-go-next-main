@@ -1,0 +1,9 @@
+[submodule "schema"]
+	path = schema
+	url = https://github.com/Takumikimura1899/openapi-schema-drive-go-next-schema
+[submodule "application"]
+	path = application
+	url = https://github.com/Takumikimura1899/openapi-schema-drive-go-next-application
+[submodule "api"]
+	path = api
+	url = https://github.com/Takumikimura1899/openapi-schema-drive-go-next-api
